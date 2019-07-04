@@ -1,0 +1,62 @@
+##########################################################################
+# Cuc ATTT APT domain Blocklist                                          #
+# Generated on 2019-07-04 10:31:02 UTC                                   #
+#                                                                        #
+#                                                                        #
+#                                                                        #
+##########################################################################
+24.datatimes.org
+anh.phimhainhat.net
+biengioivn.com
+dalat.dalat.dulichovietnam.net
+dalat.dulichovietnam.net
+dalat.hanoi.dulichovietnam.net
+danang.dalat.dulichovietnam.net
+danang.danang.dulichovietnam.net
+danang.dulichovietnam.net
+danang.hanoi.dulichovietnam.net
+data.dcsvn.org
+data.phimnoi.org
+datatimes.org
+dav.thanhnlen.com
+dcsvn.org
+dulichbiendao.org
+dulichculao.com
+dulichovietnam.com
+dulichovietnam.net
+dulichovietnam.org
+hanoi.dalat.dulichovietnam.net
+hanoi.danang.dulichovietnam.net
+hanoi.dulichovietnam.net
+hanoi.hanoi.dulichovietnam.net
+help.checkonl.org
+high.expbas.net
+high.vphelp.net
+home.phimnoi.org
+home.vietnamplos.com
+khihauvietnam.net
+login.phimhainhat.net
+login.phimnoi.org
+my.phimhainhat.net
+news.phapluats.com
+news.vietnannet.com
+nhatbaotiengviet.com
+phapluats.com
+phimhainhat.net
+phimhainhat.org
+phimnoi.org
+thanhnlen.com
+thoitietvietnam.org
+vietbaotinmoi.com
+vietnam.phimhainhat.net
+vietnamplos.com
+vietnannet.com
+vieweva.com
+vndantri.com
+vnems.com
+vnnexpress.org
+f67i.com
+g78k.com
+g50e.com
+r48t.com
+# 54 entries

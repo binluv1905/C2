@@ -1,0 +1,36 @@
+##########################################################################
+# VNPT Phishing domain Blocklist                                         #
+# Generated on 2019-07-04 10:31:02 UTC                                   #
+#                                                                        #
+#                                                                        #
+#                                                                        #
+##########################################################################
+uo3889398382707.ga
+helpdeskdk214.wixsite.com
+fz-juelich.de
+emailmeform.com
+diakonie.cz
+acehprov.go.id
+uo8893983827078.tk
+dochelp.space
+diplicano.ru
+soplifan.ru
+76236osm1.ru
+cognitoforms.com
+josfmmq.com
+cc1.coloudlinux.top
+ip138.com
+ip.3322.net
+alibuf.com
+thesecond.in
+note.youdao.com
+s.logv586.cc
+app.uye.io
+authedmine.com
+bigih.bid
+blog.docksugs.org
+blog.panggin.org
+caobang.ddns.mobi
+cognitoforms.com
+vnptnet.info
+# 28 entries

@@ -1,0 +1,28 @@
+##########################################################################
+# VNCERT phishing domain Blocklist                                       #
+# Generated on 2019-07-04 10:39:20 UTC                                   #
+#                                                                        #
+#                                                                        #
+#                                                                        #
+##########################################################################
+apbfoundation.com
+kakaocorp.link
+usfinance.club
+ukfinance.online
+shengu.tech
+kalya.website
+smtp3.info
+urlmon.online
+zivet37.services
+gpcantgua.com
+vanxuangroup.edu.vn
+gpcantgua.com
+zzivet37.pro
+wvideo.site
+usfinance.store
+pixeliph.com
+kair.xyz
+autoif.online
+crossfr.site
+dochelp.space
+# 20 entries
