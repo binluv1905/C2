@@ -1,6 +1,6 @@
 ##########################################################################
 # VNPT Phishing domain Blocklist                                         #
-# Generated on 2019-07-04 10:31:02 UTC                                   #
+# Generated on 2019-07-07 21:50:02 GMT+7                                   #
 #                                                                        #
 #                                                                        #
 #                                                                        #
@@ -33,4 +33,5 @@ blog.panggin.org
 caobang.ddns.mobi
 cognitoforms.com
 vnptnet.info
+casacivil.go.gov.br
 # 28 entries
