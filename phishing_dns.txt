@@ -1,6 +1,6 @@
 ##########################################################################
 # VNPT Phishing domain Blocklist                                         #
-# Generated on 2019-07-07 21:50:02 GMT+7                                 #
+# Generated on 2019-08-12 08:15:00 GMT+7                                 #
 #                                                                        #
 #                                                                        #
 #                                                                        #
@@ -34,4 +34,8 @@ caobang.ddns.mobi
 cognitoforms.com
 vnptnet.info
 casacivil.go.gov.br
-# 29 entries
+directvn.wixsite.com
+toyotaquangninh.com
+tmolsen3.wixsite.com
+jacksonhaz44z.wixsite.com
+# 32 entries

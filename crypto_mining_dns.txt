@@ -20,6 +20,7 @@ xmr.pool.minergate.com
 pool.minexmr.com
 pool-hk.supportxmr.com
 pool.boreye.com
+xmr.crypto-pool.fr
 aamsqec.com
 aapwdqx.in
 aawgiow.biz
