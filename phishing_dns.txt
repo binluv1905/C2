@@ -1,6 +1,6 @@
 ##########################################################################
 # VNPT Phishing domain Blocklist                                         #
-# Generated on 2019-08-12 08:15:00 GMT+7                                 #
+# Updated on 2020-08-10 08:51:00 GMT+7                                 #
 #                                                                        #
 #                                                                        #
 #                                                                        #
@@ -38,4 +38,5 @@ directvn.wixsite.com
 toyotaquangninh.com
 tmolsen3.wixsite.com
 jacksonhaz44z.wixsite.com
-# 32 entries
+outlook2xv.weebly.com
+# 33 entries
