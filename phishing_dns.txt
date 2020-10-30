@@ -1,6 +1,6 @@
 ##########################################################################
 # VNPT Phishing domain Blocklist                                         #
-# Generated on 2020-08-10 08:51:00 GMT+7                                 #
+# Generated on 2020-10-30 16:16:00 GMT+7                                 #
 #                                                                        #
 #                                                                        #
 #                                                                        #
@@ -39,4 +39,11 @@ toyotaquangninh.com
 tmolsen3.wixsite.com
 jacksonhaz44z.wixsite.com
 outlook2xv.weebly.com
-# 33 entries
+vidadohomem.com
+ecobaratocanaria.com
+uxnew.com
+tz004.com
+removepctrojan.com
+mycollegecp.com
+legalempowermentindia.com
+# 41 entries
