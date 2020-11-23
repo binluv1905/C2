@@ -1,9 +1,10 @@
 ##########################################################################
 # VNPT APT domain Blocklist                                              #
-# Generated on 2020-11-31 11:16:00 GMT+7                                 #
+# Generated on 2020-11-23 15:16:00 GMT+7                                 #
 #                                                                        #
 #                                                                        #
 #                                                                        #
 ##########################################################################
 summerevent.webhop.net
-# 1 entries
+bttytb.hopto.org
+# 2 entries
