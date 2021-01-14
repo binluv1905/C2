@@ -1,6 +1,6 @@
 ##########################################################################
 # Cuc ATTT APT domain Blocklist                                          #
-# Generated on 2019-07-04 10:31:02 UTC                                   #
+# Generated on 2019-14-01 16:31:02 UTC                                   #
 #                                                                        #
 #                                                                        #
 #                                                                        #
@@ -74,4 +74,5 @@ download.officeproduces.com
 geocities.jp
 update.olk4.com
 www.cab-sec.com
-# 54 entries
+fril.zarykon.com
+# 55 entries
