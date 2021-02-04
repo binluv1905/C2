@@ -1,6 +1,6 @@
 ##########################################################################
 # VNPT Phishing domain Blocklist                                         #
-# Generated on 2020-10-30 16:16:00 GMT+7                                 #
+# Generated on 2021-02-04 17:16:00 GMT+7                                 #
 #                                                                        #
 #                                                                        #
 #                                                                        #
@@ -53,4 +53,8 @@ mail.bursaevdenevenakliyat.link
 180clubrealestate.com
 albertoordonez.com
 techofbeauty.com
-# 48 entries
+vn-sacombank.com
+isacornbank.com
+i-sacombank.app
+i-sacombank.service
+# 52 entries
