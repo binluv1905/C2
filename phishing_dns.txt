@@ -1,6 +1,6 @@
 ##########################################################################
 # VNPT Phishing domain Blocklist                                         #
-# Generated on 2021-02-04 17:16:00 GMT+7                                 #
+# Generated on 2021-02-19 09:19:00 GMT+7                                 #
 #                                                                        #
 #                                                                        #
 #                                                                        #
@@ -57,4 +57,5 @@ vn-sacombank.com
 isacornbank.com
 i-sacombank.app
 i-sacombank.service
-# 52 entries
+info052868.wixsite.com
+# 53 entries
