@@ -1,6 +1,6 @@
 ##########################################################################
 # VNPT Phishing domain Blocklist                                         #
-# Generated on 2021-02-27 23:42:16 GMT+7                                 #
+# Generated on 2021-04-29 11:42:16 GMT+7                                 #
 #                                                                        #
 #                                                                        #
 #                                                                        #
@@ -59,4 +59,4 @@ i-sacombank.app
 i-sacombank.service
 info052868.wixsite.com
 ilocation-apple.com
-# 54 entries
+jbbhugyatt.wixsite.com
