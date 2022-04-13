@@ -1,10 +1,26 @@
 ##########################################################################
 # Cuc ATTT APT domain Blocklist                                          #
-# Generated on 2019-14-01 16:31:02 UTC                                   #
+# Generated on 2022-04-13 11:21:02 UTC                                   #
 #                                                                        #
 #                                                                        #
 #                                                                        #
 ##########################################################################
+tawuhoju.com
+brandwebsearch.com
+extra-bonus-here.life
+css.digestcolect.com
+track.special-promotions.online
+prizes4u-here.life
+sodo15.com
+clipnong.xyz
+fxpro.investments
+exed0wnload1.com
+rtbxheartbid.com
+zxb.isdun.com
+choifabet.com
+playlucky88.club
+muzamilpc.com
+d24ak3f2b.top
 24.datatimes.org
 anh.phimhainhat.net
 biengioivn.com
@@ -85,4 +101,3 @@ asense.in
 bbbjdnxbgp3.ru
 deltaheavy.ru
 soplifan.ru
-# 55 entries
