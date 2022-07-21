@@ -1,10 +1,11 @@
 ##########################################################################
 # VNPT Phishing domain Blocklist                                         #
-# Generated on 2022-06-07 11:02:16 GMT+7                                 #
+# Generated on 2022-07-21 08:21:16 GMT+7                                 #
 #                                                                        #
 #                                                                        #
 #                                                                        #
 ##########################################################################
+b24-aoaovz.bitrix24.site
 mandiantyellowpress.com
 uo3889398382707.ga
 helpdeskdk214.wixsite.com
