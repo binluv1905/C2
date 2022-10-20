@@ -1,6 +1,6 @@
 ##########################################################################
 # Cuc ATTT APT domain Blocklist                                          #
-# Generated on 2022-09-07 09:16:02 UTC                                   #
+# Generated on 2022-10-20 14:56:02 UTC                                   #
 #                                                                        #
 #                                                                        #
 #                                                                        #
@@ -213,3 +213,5 @@ hidraulicaindustrial.cl
 buffetmazzi.com.br
 milanstaffing.com
 icefront.dk
+micronsofte-online.com
+4j7laacbs.ru
