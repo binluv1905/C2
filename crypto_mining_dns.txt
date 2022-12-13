@@ -1,6 +1,6 @@
 ##########################################################################
 # Coin Miner Pool Blocklist (Coin miner)                                 #
-# Generated on 2019-07-04 10:30:02 UTC                                   #
+# Generated on 2022-12-13 09:14:02 UTC                                   #
 #                                                                        #
 #                                                                        #
 #                                                                        #
@@ -1688,4 +1688,4 @@ malware-sinkhole.net
 toonganuh.com
 sodexoa.com
 sim.jiovt.com
-# 1682 entries
+w.beahh.com
