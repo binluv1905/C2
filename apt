@@ -1,6 +1,6 @@
 ##########################################################################
 # VNPT APT domain Blocklist                                              #
-# Generated on 2023-04-11 10:41:00 GMT+7                                 #
+# Generated on 2024-30-03 15:20:00 GMT+7                                 #
 #                                                                        #
 #                                                                        #
 #                                                                        #
@@ -16,3 +16,7 @@ lucky.in
 firman004671.example.com
 suvgunlover.publicvm.com
 tankpop.publicvm.com
+analysis.ms-azurelogs.com
+msedge-collection.net
+upgrade.msedge-collection.net
+playforedream.playforedream.com
