@@ -1,6 +1,6 @@
 ##########################################################################
 # VNPT Phishing domain Blocklist                                         #
-# Generated on 2024-01-24 10:39:16 GMT+7                                 #
+# Generated on 2024-04-03 11:39:16 GMT+7                                 #
 #                                                                        #
 #                                                                        #
 #                                                                        #
@@ -82,3 +82,4 @@ app.pipefy.com
 dmfarmsx.com
 telegram.c8313.top
 owaautoupdatepathmail.softr.app
+vneid.com
