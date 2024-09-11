@@ -1,6 +1,6 @@
 ##########################################################################
 # VNPT APT domain Blocklist                                              #
-# Generated on 2024-12-08 14:42:00 GMT+7                                 #
+# Generated on .........................                                 #
 #                                                                        #
 #                                                                        #
 #                                                                        #
@@ -97,3 +97,12 @@ download-main5.b-cdn.net
 metrodown-3.b-cdn.net
 dashdisk-2.b-cdn.net
 ha.bbmouseme.com
+krislab.site
+s2cloud-amazon.com
+s3cloud-azure.com
+trendmicrotech.com
+xtools.lol
+msn-microsoft.org
+s3bucket-azure.online
+s3-microsoft.com
+visualstudio-microsoft.com
